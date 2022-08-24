@@ -1,0 +1,2 @@
+class Arreglo < ApplicationRecord
+end
